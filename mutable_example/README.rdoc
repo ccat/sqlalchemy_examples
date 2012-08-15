@@ -1,0 +1,12 @@
+= DESCRIPTION:
+  Tiny example for sqlalchemy Mutable class.
+  More information are written in http://ever-day.blogspot.jp/
+
+= REQUIREMENTS:
+  python, sqlalchemy
+
+= USAGE:
+  Each of mutable_test.py, mutable_alwayUpdate.py, mutable_observer.py and mutable_tree.py
+  can be executed by python in command line.
+  ex) python mutable_test.py
+

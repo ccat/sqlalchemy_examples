@@ -1,0 +1,7 @@
+= DESCRIPTION:
+  Tiny example for sqlalchemy.
+  More information are written in http://ever-day.blogspot.jp/
+
+= REQUIREMENTS:
+  python, sqlalchemy
+
